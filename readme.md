@@ -33,4 +33,4 @@ Technologies used:
 
 P/S: I'm also available for full-time Frontend and Fullstack (MERN Stack) Engineering roles, check out my work!
 
-- [Portfolio](https://inuenike.netlify.app)
+- [Portfolio](https://inu-george.netlify.app)
