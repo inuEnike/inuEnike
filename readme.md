@@ -12,7 +12,7 @@ Aside from developing web applications, I love community building, making resour
 - 💬 Ask me about **CSS, Tailwind,Express js,JavaScript django**
 - 📫 Want to reach me ? **inuenike@gmail.com**
 <!-- - 📄 Know about my experiences [linkedin.com/in/danjuma-ashiwaju-b07b35a4/](linkedin.com/in/danjuma-ashiwaju-b07b35a4/) -->
-- ⚡ Fun fact **I enjoy listening to love and romantic songs :Shy:**
+- ⚡ Fun fact **I enjoy listening to love and romantic songs :Shy**
 
 ## 📌 Skills
 
