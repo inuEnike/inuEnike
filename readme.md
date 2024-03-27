@@ -1,4 +1,4 @@
-### Howdy, I'm George :Happy:
+### Howdy, I'm George :happy:
 
 I am a software developer with over 2 years of industry experience creating solutions that solve business and human needs. Skilled in creating optimized and reusable codes using ReactJS, NodeJS, MongoDB, ExpressJs, and NextJs.
 I have an eye for details and pay great attention, especially to performance, accessibility, security, and maintainability for web applications.
