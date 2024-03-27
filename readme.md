@@ -7,12 +7,12 @@ Aside from developing web applications, I love community building, making resour
 
 - 🔭 I’m currently working on [My Awesome E-Commerce website](www.comming soon)
 - 🌱 I’m currently learning **NodeJS/Expressjs in depth**
-- 👯 I’m looking to collaborate on [Everse](https://danju4rizzl.github.io/everse/)
+<!-- - 👯 I’m looking to collaborate on [Everse](https://danju4rizzl.github.io/everse/) -->
 - 👨‍💻 All of my projects are available at [https://github.com/inuEnike?tab=repositories](https://github.com/inuEnike?tab=repositories)
 - 💬 Ask me about **CSS, Tailwind,Express js,JavaScript django**
 - 📫 Want to reach me ? **inuenike@gmail.com**
 <!-- - 📄 Know about my experiences [linkedin.com/in/danjuma-ashiwaju-b07b35a4/](linkedin.com/in/danjuma-ashiwaju-b07b35a4/) -->
-- ⚡ Fun fact **I enjoy listening to love and romantic songs :Shy**
+- ⚡ Fun fact **I enjoy listening to love and romantic songs :Shy:**
 
 ## 📌 Skills
 
