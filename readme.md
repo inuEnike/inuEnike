@@ -5,18 +5,18 @@ I have an eye for details and pay great attention, especially to performance, ac
 
 Aside from developing web applications, I love community building, making resourceful videos to help the community, writing technical articles, and being the best version of myself!
 
-- 🔭 I’m currently working on [My Awesome E-Commerce website](www.deejaydev.work)
+- 🔭 I’m currently working on [My Awesome E-Commerce website](www.comming soon)
 - 🌱 I’m currently learning **NodeJS/Expressjs in depth**
 - 👯 I’m looking to collaborate on [Everse](https://danju4rizzl.github.io/everse/)
 - 👨‍💻 All of my projects are available at [https://github.com/inuEnike?tab=repositories](https://github.com/inuEnike?tab=repositories)
-- 💬 Ask me about **CSS, Bootstrap,JavaScript django**
-- 📫 How to reach me **danjumashiwaju@gmail.com**
-- 📄 Know about my experiences [linkedin.com/in/danjuma-ashiwaju-b07b35a4/](linkedin.com/in/danjuma-ashiwaju-b07b35a4/)
-- ⚡ Fun fact **I enjoy music form the 60's and 70's while coding 👽(Romantic Songs Mostly)**
+- 💬 Ask me about **CSS, Tailwind,Express js,JavaScript django**
+- 📫 Want to reach me ? **inuenike@gmail.com**
+<!-- - 📄 Know about my experiences [linkedin.com/in/danjuma-ashiwaju-b07b35a4/](linkedin.com/in/danjuma-ashiwaju-b07b35a4/) -->
+- ⚡ Fun fact **I enjoy listening to love and romantic songs :Shy**
 
 ## 📌 Skills
 
-- Languages: JavaScript/Typescript, NodeJs
+- Languages: JavaScript/Typescript, NodeJs, Django
 - Tools: Git & Github, VS Code
 
 Technologies used:
