@@ -1,4 +1,4 @@
-### Howdy, I'm George :happy:
+### Howdy, I'm George 🥰:
 
 I am a software developer with over 2 years of industry experience creating solutions that solve business and human needs. Skilled in creating optimized and reusable codes using ReactJS, NodeJS, MongoDB, ExpressJs, and NextJs.
 I have an eye for details and pay great attention, especially to performance, accessibility, security, and maintainability for web applications.
@@ -12,7 +12,7 @@ Aside from developing web applications, I love community building, making resour
 - 💬 Ask me about **CSS, Tailwind,Express js,JavaScript django**
 - 📫 Want to reach me ? **inuenike@gmail.com**
 <!-- - 📄 Know about my experiences [linkedin.com/in/danjuma-ashiwaju-b07b35a4/](linkedin.com/in/danjuma-ashiwaju-b07b35a4/) -->
-- ⚡ Fun fact **I enjoy listening to love and romantic songs :Shy**
+- ⚡ Fun fact **I enjoy listening to love and romantic songs 🤗**
 
 ## 📌 Skills
 
