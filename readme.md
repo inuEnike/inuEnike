@@ -32,4 +32,4 @@ Technologies used:
 P/S: I'm also available for full-time Frontend and Fullstack (MERN Stack) Engineering roles, check out my work!
 
 - [Portfolio](https://inu-george.netlify.app)
-- [![GitHub Streak](https://streak-stats.demolab.com?user=inuEnikei&theme=github-dark-red)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=inuEnike&theme=neon-dark&hide_border=true)](https://git.io/streak-stats)
