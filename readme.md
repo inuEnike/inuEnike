@@ -21,7 +21,6 @@ Aside from developing web applications, I love community building, making resour
 Technologies used:
 
 - Reactjs
-- Redux (State Management)
 - ExpressJs
 - MongoDB
 - NodeJS
@@ -34,4 +33,4 @@ P/S: I'm also available for full-time Frontend and Fullstack (MERN Stack) Engine
 - [Portfolio](https://inu-george.netlify.app)
 
   
-- [![GitHub Streak](https://streak-stats.demolab.com?user=inuEnike&theme=neon-dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=inuEnike&theme=neon-dark&hide_border=true)](https://git.io/streak-stats)
