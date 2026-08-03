@@ -1,6 +1,6 @@
 ### Howdy, I'm George 🥰:
 
-I am a software developer with over 2 years of industry experience creating solutions that solve business and human needs. Skilled in creating optimized and reusable codes using ReactJS, NodeJS, MongoDB, ExpressJs, and NextJs.
+I am a software developer with over 3 years of industry experience creating solutions that solve business and human needs. Skilled in creating optimized and reusable codes using ReactJS, NodeJS, MongoDB, ExpressJs, and NextJs.
 I have an eye for details and pay great attention, especially to performance, accessibility, security, and maintainability for web applications.
 
 Aside from developing web applications, I love community building, making resourceful writeup and bringing ideas to help the community, writing technical articles, and being the best version of myself!
