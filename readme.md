@@ -101,7 +101,7 @@ I'm constantly working toward becoming a better engineer, builder, and problem s
 
 ## 🔗 Find Me
 
-* 💻 **Portfolio:** https://enike.vercel.app
+* 💻 **Portfolio:** https://inugeorge.vercel.app
 * 👨🏽‍💻 **GitHub:** https://github.com/inuEnike
 * 📧 **Email:** [imperium.dev01@gmail.com](mailto:imperium.dev01@gmail.com)
 
