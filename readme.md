@@ -97,7 +97,7 @@ I'm constantly working toward becoming a better engineer, builder, and problem s
 * Redis
 * System design
 * Software architecture
-* Swift & SwiftUI
+* React Native 
 
 ## 🔗 Find Me
 
@@ -113,6 +113,3 @@ I'm open to **Frontend and Full-Stack Engineering opportunities**, particularly 
 
 I enjoy listening to **love and romantic songs** while coding. 🤗
 
----
-
-![GitHub Streak](https://streak-stats.demolab.com?user=inuEnike\&theme=neon-dark\&hide_border=true)
